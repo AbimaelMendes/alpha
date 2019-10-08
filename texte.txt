@@ -1,3 +1,6 @@
 Olá, mundo!
 	Qual é a boa?
 	-nada!
+
+Ei, mundo, está ai?
+	-Não!
